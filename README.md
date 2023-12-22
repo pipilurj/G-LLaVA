@@ -42,6 +42,8 @@ playground/data/
 ├── test_question.jsonl
 ├── test_answers.jsonl
 ```
+"test_question.jsonl" and "test_answers.jsonl" correspond to the test set of GeoQA. 
+
 ## First Stage Alignment
 This stage enables the model to better interpret the content of geometric figures.
 ```
