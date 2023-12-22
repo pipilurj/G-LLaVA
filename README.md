@@ -1,4 +1,6 @@
+
 ![ex1](asset/logo.png)
+
 # G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model
 
 This repository contains the code and data for the paper titled "G-LLaVA: Solving Geometric Problem with Multi-Modal Large
