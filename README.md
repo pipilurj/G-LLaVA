@@ -6,7 +6,7 @@
 This repository contains the code and data for the paper titled "G-LLaVA: Solving Geometric Problem with Multi-Modal Large
 Language Model".
 
-[Paper](https://arxiv.org/pdf/2312.11370.pdf), [Dataset](https://huggingface.co/datasets/Luckyjhg/Geo170K/tree/main)
+[Paper](https://arxiv.org/pdf/2312.11370.pdf), [Dataset](https://huggingface.co/datasets/Luckyjhg/Geo170K/tree/main) , Models([G-LLaVA-7B](https://huggingface.co/renjiepi/G-LLaVA-7B), [G-LLaVA-13B](https://huggingface.co/renjiepi/G-LLaVA-13B))
 
 
 ![ex1](asset/geollava_mainfigure.png)
