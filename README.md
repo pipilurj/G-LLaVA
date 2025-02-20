@@ -68,7 +68,7 @@ bash scripts/eval_multi.sh /
                 num_gpus /
                 temperature
 ```
-Run automatic evaluation to calculate the accuracy.
+Run automatic evaluation to calculate the accuracy (GeoQA).
 ```
 python scripts/geo_acc_calculate.py /
              --ground_truth_file playground/data/test_answers.jsonl /
